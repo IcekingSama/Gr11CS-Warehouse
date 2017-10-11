@@ -1,0 +1,28 @@
+E:\EdwardWanA1Warehouse\EdwardWanA1Warehouse\bin\Debug\EdwardWanA1Warehouse.exe.config
+E:\EdwardWanA1Warehouse\EdwardWanA1Warehouse\bin\Debug\EdwardWanA1Warehouse.exe
+E:\EdwardWanA1Warehouse\EdwardWanA1Warehouse\bin\Debug\EdwardWanA1Warehouse.pdb
+E:\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.csprojResolveAssemblyReference.cache
+E:\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.Form1.resources
+E:\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.Properties.Resources.resources
+E:\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.csproj.GenerateResource.Cache
+E:\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.exe
+E:\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.pdb
+C:\Users\edwar\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\bin\Debug\EdwardWanA1Warehouse.exe.config
+C:\Users\edwar\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\bin\Debug\EdwardWanA1Warehouse.exe
+C:\Users\edwar\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\bin\Debug\EdwardWanA1Warehouse.pdb
+C:\Users\edwar\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.csprojResolveAssemblyReference.cache
+C:\Users\edwar\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.Form1.resources
+C:\Users\edwar\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.Properties.Resources.resources
+C:\Users\edwar\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.csproj.GenerateResource.Cache
+C:\Users\edwar\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.exe
+C:\Users\edwar\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.pdb
+C:\Users\Eric Lin\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\bin\Debug\EdwardWanA1Warehouse.exe.config
+C:\Users\Eric Lin\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.exe
+C:\Users\Eric Lin\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.pdb
+C:\Users\Eric Lin\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\bin\Debug\EdwardWanA1Warehouse.exe
+C:\Users\Eric Lin\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\bin\Debug\EdwardWanA1Warehouse.pdb
+C:\Users\Eric Lin\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.csprojResolveAssemblyReference.cache
+C:\Users\Eric Lin\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.Form1.resources
+C:\Users\Eric Lin\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.Properties.Resources.resources
+C:\Users\Eric Lin\Desktop\EdwardWanA1Warehouse\EdwardWanA1Warehouse\obj\Debug\EdwardWanA1Warehouse.csproj.GenerateResource.Cache
